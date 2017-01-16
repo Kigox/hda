@@ -78,10 +78,3 @@ h2{
   width: 400px;
   height: 400px;
 }
-.oeuvre span {
-    visibility: hidden;
-}
-
-.oeuvre img:hover + span {
-    visibility: visible;
-}
