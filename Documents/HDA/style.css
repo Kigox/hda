@@ -71,10 +71,10 @@ h2{
   width: 400px;
   height: 400px;
 }
-.photo span {
+.oeuvre span {
     visibility: hidden;
 }
  
-.photo img:hover + span {
+.oeuvre img:hover + span {
     visibility: visible;
 }
