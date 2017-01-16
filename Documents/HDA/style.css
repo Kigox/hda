@@ -27,6 +27,13 @@ h2{
   margin-bottom: 150px;
 }
 
+.img{
+  width: 110%;
+  height: 103%;
+  margin-left: -5%;
+  margin-top: -2%;
+}
+
 #definition{
   width: 90%;
   text-align: center;
@@ -74,7 +81,7 @@ h2{
 .oeuvre span {
     visibility: hidden;
 }
- 
+
 .oeuvre img:hover + span {
     visibility: visible;
 }
